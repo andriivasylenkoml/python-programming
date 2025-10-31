@@ -36,3 +36,5 @@ def calculate_u(x: float) -> float:
 x_value = 2.0 # Change tis to test other values.
 u = calculate_u(x_value)
 print(f"u({x_value}) = {u}")
+
+
